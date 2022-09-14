@@ -1,5 +1,12 @@
 ### Oracle-Philip의 GitHub 👋
 
+![Badge](http://img.shields.io/badge/-Java-black?style=flat-square)
+![Badge](http://img.shields.io/badge/-Koltin-black?style=flat-square)
+![Badge](http://img.shields.io/badge/-Dart-black?style=flat-square)
+![Badge](http://img.shields.io/badge/-Android-black?style=flat-square)
+![Badge](http://img.shields.io/badge/-Flutter-black?style=flat-square)
+![Badge](http://img.shields.io/badge/-Firebase-black?style=flat-square)
+
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Oracle-Philip&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
