@@ -21,7 +21,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
-          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE: "False"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_EDITORS: "False"
