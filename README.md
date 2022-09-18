@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%208%20mins-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -62,7 +62,7 @@ Java                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 17/09/2022 18:53:28 UTC
+ Last Updated on 18/09/2022 18:52:57 UTC
 <!--END_SECTION:waka-->
 
 
