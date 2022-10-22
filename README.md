@@ -28,7 +28,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2059%20mins-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -67,7 +67,7 @@ Makefile                 1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 22/10/2022 11:16:05 UTC
+ Last Updated on 22/10/2022 15:12:24 UTC
 <!--END_SECTION:waka-->
 
 
