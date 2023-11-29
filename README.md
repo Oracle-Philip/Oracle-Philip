@@ -55,9 +55,7 @@ Sunday                   912 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Gradle                   15 mins             ████████████████████████░   94.40 % 
-Kotlin                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -73,7 +71,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2023 15:13:17 UTC
+ Last Updated on 29/11/2023 15:13:04 UTC
 <!--END_SECTION:waka-->
 
 
