@@ -55,7 +55,7 @@ Sunday                   956 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -71,7 +71,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2023 15:10:03 UTC
+ Last Updated on 25/12/2023 15:11:56 UTC
 <!--END_SECTION:waka-->
 
 
