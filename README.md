@@ -55,7 +55,7 @@ Sunday                   956 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   0 secs              █████████████████████████   100.00 % 
+Kotlin                   9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -71,7 +71,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2024 15:11:53 UTC
+ Last Updated on 24/02/2024 15:10:11 UTC
 <!--END_SECTION:waka-->
 
 
