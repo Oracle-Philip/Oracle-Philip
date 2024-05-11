@@ -1,12 +1,10 @@
 ### Oracle-Philip의 GitHub 👋
 
-![Badge](http://img.shields.io/badge/-Java-black?style=flat-square)
 <img src="https://img.shields.io/badge/ -Kotlin-black?style=flat-square&logo=Kotlin&logoColor=#7F52FF"/></a>
-<img src="https://img.shields.io/badge/ -Dart-black?style=flat-square&logo=Dart&logoColor=#0175C2"/></a>
+![Badge](http://img.shields.io/badge/-Java-black?style=flat-square)
+<img src="https://img.shields.io/badge/ -JavaScript-black?style=flat-square&logo=JavaScript&logoColor=#3DDC84"/></a>
+<img src="https://img.shields.io/badge/ -Python-black?style=flat-square&logo=Python&logoColor=#3DDC84"/></a>
 <img src="https://img.shields.io/badge/ -Android-black?style=flat-square&logo=Android&logoColor=#3DDC84"/></a>
-<img src="https://img.shields.io/badge/ -Flutter-black?style=flat-square&logo=Flutter&logoColor=#02569B"/></a>
-<img src="https://img.shields.io/badge/ -Firebase-black?style=flat-square&logo=Firebase&logoColor=#FFCA28"/></a>
-
 <img src="https://img.shields.io/badge/ -BLE-black?style=flat-square&logo=Bluetooth&logoColor=#0082FC"/></a>
 
 <!--
